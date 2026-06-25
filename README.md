@@ -1,5 +1,7 @@
 # CivicTrack
 
+> 📚 **Course:** Software Engineering — Spring 2026, NUST SEECS
+
 A civic issue–reporting and resolution platform. Citizens file geotagged complaints with photos; local authorities review, respond, and resolve them — with live status updates. Built as a React + Vite single-page app on a Supabase backend.
 
 ## Features
